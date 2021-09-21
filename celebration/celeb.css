@@ -18,3 +18,9 @@ body {
     background-color: color-mix(in srgb, #34c9eb 10%, white);
     text-decoration-style: dashed;
   }
+
+  @media only screen and (min-width: 360px){
+    h1{
+      font-size: 4em;
+    }
+  }
