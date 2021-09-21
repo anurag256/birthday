@@ -131,7 +131,7 @@ a{
 
 /* ************** */
 /* responsive */
-@media only screen and (min-width: 360px) {
+@media only screen and (min-width: 360px) and (max-width: 480px) {
   #btn{
     left: 30%;
     bottom: 14%;
